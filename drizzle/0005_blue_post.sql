@@ -1,0 +1,1 @@
+ALTER TABLE "projects" ALTER COLUMN "progress_method" SET DEFAULT 'manual';
